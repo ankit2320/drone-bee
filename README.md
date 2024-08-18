@@ -3,10 +3,10 @@ Deployment Link :https://ankit2320.github.io/drone-bee/
 # DroneBee
 1. Please allow the location permission if you get a popup like this:
    
-![Screenshot (91)](https://user-images.githubusercontent.com/97248127/230001551-d018a2b1-0b82-4674-9f9b-0086eb3eb740.png)
+
 
 2.Click the hover icon on the right end of the search bar for chrome( which may vary for firefox,bing etc.) and then reload the page.
-![Screenshot (92)](https://user-images.githubusercontent.com/97248127/230002251-392c1e2b-febb-47e1-897e-f8d81077b78b.png)
+
 
 3.Home page will appear saying to select the Pickup adress from the Map.
 ![Screenshot (80)](https://user-images.githubusercontent.com/97248127/230003064-376c3fdc-0fc0-4d8a-a68c-34fd23ea51bd.png)
